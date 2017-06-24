@@ -1,0 +1,39 @@
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe.config
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.Form1.resources
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.Properties.Resources.resources
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.pdb
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.exe
+E:\Executaveis liberados\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.pdb
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe.config
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.exe
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.pdb
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.pdb
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csprojResolveAssemblyReference.cache
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.Form1.resources
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.Properties.Resources.resources
+D:\C#\Calculadora C#\Calculadora_CSharp(Denner, Douglas Pinheiro, Jonas)\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csproj.GenerateResource.Cache
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe.config
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.exe
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.pdb
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.pdb
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csprojResolveAssemblyReference.cache
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.Form1.resources
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.Properties.Resources.resources
+D:\C#\GITHUB\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csproj.GenerateResource.Cache
+E:\Executaveis liberados\GITHUB\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe.config
+E:\Executaveis liberados\GITHUB\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.exe
+E:\Executaveis liberados\GITHUB\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.pdb
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe.config
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.exe
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.pdb
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.pdb
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.Form1.resources
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.Properties.Resources.resources
+C:\Users\Jonas\Downloads\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csproj.GenerateResource.Cache
